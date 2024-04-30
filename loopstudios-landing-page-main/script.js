@@ -88,7 +88,7 @@
                         <li><a href="">Products</a></li>
                         <li><a href="">Support</a></li>
                     </ul>
-                    <p>&#169 2021 Loopstudios. All rights reserved. Coded by <a href="https://khanyazn.netlify.com">Nokukhanya</a></p>
+                    <p>&#169 2021 Loopstudios. All rights reserved. Coded by <a href="https://khanyazn.netlify.app" target="_blank">Nokukhanya</a></p>
                 </div>
             </footer>
         `;
